@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-20)
+
+### Features
+
+- Introduce a breaking change
+  ([`6edda89`](https://github.com/AgustinEzeiza/my-package-with-semver/commit/6edda89fec471290e4f12b8bf8de0aaec696ffe0))
+
+
 ## v1.1.0 (2026-05-20)
 
 ### Bug Fixes
